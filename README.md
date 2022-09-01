@@ -69,7 +69,7 @@ With the design and functionality of the site as of now one drawback of to user 
 
 #### Recommendations:
 
-1. I recommendation on with the next deployment update the ability to use upper case or lower case, as well entering location with out spaces. 
+1. I have a recommendaton for the next deployment, the ability for users to type upper case or lower case, as well entering location without spaces. 
 
 
 2. Be able to search a range of dates not just a specific day.
