@@ -18,7 +18,7 @@ The deployed webpage is available at
 
 ### Search Criteria Procedure
 
-### Index page
+#### Index page
 
 This the home page. The user can refresh search by clicking on the navbar in the upper left corner of the page.
 
