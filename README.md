@@ -20,10 +20,25 @@ The deployed webpage is available at
 
 #### Index page
 
-This the home page. The user can refresh search by clicking on the navbar in the upper left corner of the page.
+The the home page. The user can refresh search by clicking on the navbar in the upper left corner of this page.
+
+![UFO_Screenshot_1](https://user-images.githubusercontent.com/90155651/188019788-897bf550-1308-4bfc-8454-ac365bbb0288.png)
 
 
-![UFO_Screenshot_1](https://user-images.githubusercontent.com/90155651/188017612-45a15274-61ce-4a8f-8d51-5c8d5e614afe.png)
+
+#### Filtering by country
+
+Here the user enters the country, the input is detected and the table is updated.
+
+![UFO_Screenshot_2](https://user-images.githubusercontent.com/90155651/188019821-db3167ba-260e-488c-956c-a609da141d5d.png)
+
+
+
+#### Filter by event date
+
+Here the user enters the date of the sighting, the input is detected and the table is updated.
+
+![UFO_Screenshot_3](https://user-images.githubusercontent.com/90155651/188019861-85ef4550-4743-4acd-817e-5acae923c6ab.png)
 
 
 
