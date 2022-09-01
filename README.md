@@ -18,7 +18,7 @@ The deployed webpage is available at
 
 ### Search Criteria Procedure
 
-#### Index page
+#### Index Page
 
 The the home page. The user can refresh search by clicking on the navbar in the upper left corner of this page.
 
@@ -26,7 +26,7 @@ The the home page. The user can refresh search by clicking on the navbar in the 
 
 
 
-#### Filtering by country
+#### Filtering by Country
 
 Here the user enters the country, the input is detected and the table is updated.
 
@@ -34,7 +34,7 @@ Here the user enters the country, the input is detected and the table is updated
 
 
 
-#### Filter by event date
+#### Filter by Event Date
 
 Here the user enters the date of the sighting, the input is detected and the table is updated.
 
@@ -42,8 +42,21 @@ Here the user enters the date of the sighting, the input is detected and the tab
 
 
 
+#### Filtering by State
+
+Here the user enters the state, the input is detected and the table is updated.
+
+![UFO_Screenshot_4](https://user-images.githubusercontent.com/90155651/188020234-b9c7e36b-8178-4dca-88b8-c21a4acf389c.png)
 
 
+
+#### Filtering by Multiple Criteria
+
+Here the user enters the multiple specified criteria, the input is detected and the table is updated.
+
+![UFO_Screenshot_5](https://user-images.githubusercontent.com/90155651/188020623-cdf14474-719e-485b-b8ed-b9d3700f8230.png)
+
+All filter parameters can be entered synchronously for search.
 
 
 ## Summary
