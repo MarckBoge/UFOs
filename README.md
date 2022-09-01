@@ -60,3 +60,16 @@ All filter parameters can be entered synchronously for search.
 
 
 ## Summary
+
+
+#### Drawback:
+
+With the design and functionality of the site as of now one drawback of to user experience is that the user would have to know exact dates, cities, or states sightings occurred to search. Parameters such as shape, may have issues if terminology is not well knew. Also with this current version cities must be enter very carefully not to forget a space and must enter in all lower case letters.
+
+
+#### Recommendations:
+
+1. I recommendation on with the next deployment update the ability to use upper case or lower case, as well entering location with out spaces. 
+
+
+2. Be able to search a range of dates not just a specific day.
