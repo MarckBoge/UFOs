@@ -56,7 +56,7 @@ Here the user enters the multiple specified criteria, the input is detected and 
 
 ![UFO_Screenshot_5](https://user-images.githubusercontent.com/90155651/188020623-cdf14474-719e-485b-b8ed-b9d3700f8230.png)
 
-All filter parameters can be entered synchronously for search.
+Also all filter parameters can be entered synchronously for search as well.
 
 
 ## Summary
