@@ -12,9 +12,9 @@ The purpose to this project was to focus on building a dynamic webpage consistin
 
 ## Results
 
-### Link to UFO Sightings webpage https://marckboge.github.io/UFOs/
+### Link to UFO Sightings webpage 
 
-The deployed webpage is available at 
+The deployed webpage is available at https://marckboge.github.io/UFOs/
 
 ### Search Criteria Procedure
 
